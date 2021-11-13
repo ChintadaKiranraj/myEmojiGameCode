@@ -1,0 +1,35 @@
+/* Write your code here. */
+.winOrLooseCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff30;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 20px;
+}
+
+.resultHead {
+  font-family: 'Beer serif';
+  font-weight: 600;
+  color: aliceblue;
+}
+.scoreContent {
+  margin: 10px;
+}
+.playAgainButton {
+  color: black;
+  border-style: none;
+  padding: 10px;
+  border-radius: 5px;
+
+  background-color: #ffce27;
+}
+.score {
+  font-family: 'Beer serif';
+  color: blue;
+
+  font-size: 40px;
+  font-weight: 800;
+}

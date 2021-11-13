@@ -1,0 +1,33 @@
+/* Write your code here. */
+
+.scoreAndTopScore {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.emoji-logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.NavBar {
+  background-color: #ffffff30;
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-between;
+  width: 100%;
+  padding-left: 8%;
+  padding-right: 8%;
+}
+
+p {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.scoreMargin {
+  margin-right: 10px;
+}
